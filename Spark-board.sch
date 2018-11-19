@@ -37,10 +37,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Spark-Board"
+Date "2018-11-18"
+Rev "A"
+Comp "Haseeb Syed"
 Comment1 ""
 Comment2 ""
 Comment3 ""
