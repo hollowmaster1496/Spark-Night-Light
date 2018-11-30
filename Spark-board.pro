@@ -1,4 +1,4 @@
-update=2018-11-11 8:24:29 PM
+update=2018-11-29 11:01:00 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,6 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=C:/Users/Syed/Documents/Kicad/SnapEDA/ATMEGA328P-PU/ATMEGA328P-PU
+LibName34=C:/Users/Syed/Documents/Kicad/SnapEDA/PDV-P8103/PDV-P8103
+LibName35=C:/Users/Syed/Documents/Kicad/SnapEDA/PN2222/PN2222

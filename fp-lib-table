@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ATMEGA328P-PU)(type Legacy)(uri C:/Users/Syed/Documents/Kicad/SnapEDA/ATMEGA328P-PU/ATMEGA328P-PU.mod)(options "")(descr ""))
+  (lib (name PDV-P8103)(type Legacy)(uri C:/Users/Syed/Documents/Kicad/SnapEDA/PDV-P8103/PDV-P8103.mod)(options "")(descr ""))
+  (lib (name PN2222)(type Legacy)(uri C:/Users/Syed/Documents/Kicad/SnapEDA/PN2222/PN2222.mod)(options "")(descr ""))
+)
