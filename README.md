@@ -1,7 +1,7 @@
 # Spark-Night-Light
 PCB for night light
 
-[![Spark-Night-Light](./images/Spark-board.png "PCB")
+[![Spark-Night-Light](./images/Spark-board-front.png "PCB")
 
 
 ###Demo
